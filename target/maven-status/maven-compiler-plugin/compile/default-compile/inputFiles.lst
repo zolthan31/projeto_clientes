@@ -1,0 +1,9 @@
+/home/romulolima/Documentos/projetos_pessoais/Projeto_clientes_servicos/projeto_clientes/src/main/java/io/github/romulolima/clientes/ClientesApplication.java
+/home/romulolima/Documentos/projetos_pessoais/Projeto_clientes_servicos/projeto_clientes/src/main/java/io/github/romulolima/clientes/model/entity/Servico.java
+/home/romulolima/Documentos/projetos_pessoais/Projeto_clientes_servicos/projeto_clientes/src/main/java/io/github/romulolima/clientes/rest/ApplicationControllerAdvice.java
+/home/romulolima/Documentos/projetos_pessoais/Projeto_clientes_servicos/projeto_clientes/src/main/java/io/github/romulolima/clientes/rest/exception/ApiErrors.java
+/home/romulolima/Documentos/projetos_pessoais/Projeto_clientes_servicos/projeto_clientes/src/main/java/io/github/romulolima/clientes/model/repository/ServicoRepository.java
+/home/romulolima/Documentos/projetos_pessoais/Projeto_clientes_servicos/projeto_clientes/src/main/java/io/github/romulolima/clientes/config/InternacionalizacaoConfig.java
+/home/romulolima/Documentos/projetos_pessoais/Projeto_clientes_servicos/projeto_clientes/src/main/java/io/github/romulolima/clientes/rest/ClienteController.java
+/home/romulolima/Documentos/projetos_pessoais/Projeto_clientes_servicos/projeto_clientes/src/main/java/io/github/romulolima/clientes/model/entity/Cliente.java
+/home/romulolima/Documentos/projetos_pessoais/Projeto_clientes_servicos/projeto_clientes/src/main/java/io/github/romulolima/clientes/model/repository/ClienteRepository.java
